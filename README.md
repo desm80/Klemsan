@@ -11,4 +11,5 @@ Python, openpyxl
 
 ### Планируется
 Доработка до миниприложения на Flask.
+
 Upd: проект доработан и переехал в репозиторий https://github.com/desm80/stockKlemsanFlask.git
